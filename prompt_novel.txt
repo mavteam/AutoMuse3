@@ -1,0 +1,5 @@
+Convert the following screenplay into a novel:
+
+<<STORY>>
+
+Screenplay converted to novel:

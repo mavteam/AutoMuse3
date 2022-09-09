@@ -1,0 +1,20 @@
+Write a brief but lush description of the scene for the following story.
+
+SUMMARY: The friends meet at their favorite coffee shop to catch up on each other's news. The sun is shining in through the windows, and the coffee shop is very crowded and noisy. However, the friends still manage to have a great time catching up with each other.
+
+SCENE: The coffee shop is packed with people, but Jane, Ahmed, and Sasha find a table in the corner to chat. The sun is streaming in through the windows, and the smell of coffee and pastries fills the air. The friends laugh and joke as they catch up on each other's news.
+AHMED BENTLEY: SUMMARY: The friends finish their coffee and pastries and get ready to leave. AHMED BENTLEY: "Well, I should get going," Ahmed says, standing up and stretching. "It was great catching up with you guys." JANE SMITH: "Yeah, we should do this again soon," Jane says, gathering her things. SASHA POSKOVA: "Definitely," Sasha says, giving her friends a hug. "I'll see you soon."
+JANE SMITH: Jane finishes her coffee and pastry and stands up to leave. "It was great catching up with you guys," she says. "We should do this again soon."
+SASHA POSKOVA: Sasha gives her friends a hug and says, "I'll see you soon."
+EVENT: The coffee shop is very crowded and noisy, and the friends have a hard time hearing each other.
+SCENE: The coffee shop is very crowded and noisy, and the friends have a hard time hearing each other. However, they still manage to have a great time catching up on each other's news. The sun is shining in through the windows, and the smell of coffee and pastries fills the air. They laugh and joke as they chat, and it's clear that they enjoy each other's company very much.
+AHMED BENTLEY: Ahmed Bentley: "I should get going," Ahmed says, standing up and stretching. "It was great catching up with you guys."
+JANE SMITH: JANE SMITH: "Yeah, we should do this again soon," Jane says, gathering her things.
+SASHA POSKOVA: Sasha finishes her coffee and pastry and stands up to leave. "It was great catching up with you guys," she says. "We should do this again soon."
+EVENT: The friends continue to chat and catch up on each other's news. They laugh and joke about their shared experiences, and the sun continues to shine in through the windows. The coffee shop is still very crowded and noisy, but the friends are having a great time catching up with each other.
+
+Brief but lush scene description:
+
+==========
+
+The sun is shining in through the windows of the coffee shop, and the smell of coffee and pastries fills the air. The friends are laughing and joking as they catch up on each other's news, and it's clear that they enjoy each other's company very much. The coffee shop is very crowded and noisy, but the friends are having a great time catching up with each other.
