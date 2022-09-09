@@ -1,0 +1,25 @@
+Imagine the next character action or dialog for JANE SMITH
+
+Name: Jane Smith
+Age: 23
+Background: Grew up in Boston to a poor family, loves acting, dreams of getting to Broadway
+Lives: In a tiny basement apartment in NYC
+Romantic: Presently single, bisexual, prefers women, has had a string of hookups
+
+SUMMARY: Jane Smith, Ahmed Bentley, and Sasha Poskova are friends who meet up at their favorite coffee shop to chat about their day. In today's conversation, Ahmed asks Jane and Sasha what's new with them. Jane replies that she's been working a lot and trying to save money, while Sasha says she's been having trouble with her writing.
+
+Story: Jane Smith, Ahmed Bentley, and Sasha Poskova are friends in NYC. They are meeting at their favorite coffee shop to talk about their days.
+SUMMARY: Jane Smith, Ahmed Bentley, and Sasha Poskova are friends in NYC who meet up at their favorite coffee shop to chat about their days.
+SCENE: The coffee shop is small and cozy, with a warm and inviting atmosphere. The walls are lined with shelves full of books, and the tables are made of dark wood. The three friends sit at a table near the window, chatting and laughing as they enjoy their coffee.
+AHMED BENTLEY: "So, what's new with you guys?" Ahmed asks, taking a sip of his coffee.
+JANE SMITH: "Not much," Jane replies, shrugging. "Just been working a lot lately. Trying to save up some money."
+SASHA POSKOVA: Sasha sighs and says, "I wish I could say the same. I've been having a lot of trouble lately with my writing."
+EVENT: Ahmed Bentley, Jane Smith, and Sasha Poskova are sitting in their favorite coffee shop chatting about their day. Ahmed Bentley asks Jane Smith and Sasha Poskova what is new with them and Jane Smith replies that she has been working a lot and trying to save up some money. Sasha Poskova sighs and says that she has been having a lot of trouble with her writing as of late.
+SCENE: The coffee shop is small and cozy, with a warm and inviting atmosphere. The walls are lined with shelves full of books, and the tables are made of dark wood. The three friends sit at a table near the window, chatting and laughing as they enjoy their coffee. The sun is shining in through the window, casting a warm glow on the scene.
+AHMED BENTLEY: "So Sasha, what's been going on with your writing?" Ahmed asks, leaning forward in his chair. "I know you've been struggling recently. Is there anything I can do to help?"
+
+Next one action or dialog for JANE SMITH:
+
+==========
+
+"Thanks for asking, Ahmed," Sasha says, looking down at her coffee. "I appreciate it. I think I just need some time to figure things out. I'll be okay." "If you need anything, don't hesitate to let us know," Jane says, patting Sasha's hand reassuringly.

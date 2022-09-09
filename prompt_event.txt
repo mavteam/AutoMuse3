@@ -4,4 +4,4 @@ Given the following story imagine a <<RARITY>> event to advance the plot. Descri
 
 <<RECENT>>
 
-Event described in one or two sentences:
+Imagine <<RARITY>> event described in one or two sentences:
