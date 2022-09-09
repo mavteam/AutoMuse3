@@ -1,0 +1,21 @@
+Convert the following screenplay into a novel:
+
+
+SCENE: The coffee shop is warm and inviting, with a cozy fireplace and comfortable chairs. The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other. There's a sense of camaraderie and closeness in the air, as they catch up on each other's lives.
+AHMED BENTLEY: "So, what are your plans for the future?" Ahmed asks, looking at Jane and Sasha. "Are you guys going to stay in the city, or move out?"
+JANE SMITH: "I'm not sure," Jane replies, shrugging. "I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change."
+SASHA POSKOVA: "I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change," Sasha says, absently stirring her coffee.
+EVENT: The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other. There's a sense of camaraderie and closeness in the air, as they catch up on each other's lives.
+
+
+Screenplay converted to novel:
+
+==========
+
+The coffee shop was warm and inviting, with a cozy fireplace and comfortable chairs. The friends chatted and laughed over their coffees, catching up on all that had happened since they last saw each other. There was a sense of camaraderie and closeness in the air, as they caught up on each other's lives.
+
+"So, what are your plans for the future?" Ahmed asked, looking at Jane and Sasha. "Are you guys going to stay in the city, or move out?"
+
+"I'm not sure," Jane replied, shrugging. "I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change."
+
+"I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change," Sasha said, absently stirring her coffee.

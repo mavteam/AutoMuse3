@@ -1,5 +1,7 @@
 import os
 import textwrap
+import openai
+from time import time,sleep
 
 
 def open_file(filepath):

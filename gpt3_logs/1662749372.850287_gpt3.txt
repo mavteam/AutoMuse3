@@ -1,0 +1,24 @@
+Convert the following screenplay into a novel:
+
+
+Story: Jane Smith, Ahmed Bentley, and Sasha Poskova are friends in NYC. They are meeting at their favorite coffee shop to talk about their days.
+SCENE: The coffee shop is cozy and inviting, with a warm fireplace and comfortable chairs. The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other.
+AHMED BENTLEY: "So, what's new with you guys?" Ahmed asks, taking a sip of his coffee.
+JANE SMITH: "Not much," Jane replies, shrugging. "I've just been working a lot lately. Trying to save up some money so I can move out of my basement apartment."
+SASHA POSKOVA: "I've been thinking about moving out of the city," Sasha says, absently stirring her coffee. "I'm just not sure if I'm ready for that kind of change."
+EVENT: The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other.
+
+
+Screenplay converted to novel:
+
+==========
+
+The coffee shop was cozy and inviting, with a warm fireplace and comfortable chairs. The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other.
+
+"So, what's new with you guys?" Ahmed asks, taking a sip of his coffee.
+
+"Not much," Jane replies, shrugging. "I've just been working a lot lately. Trying to save up some money so I can move out of my basement apartment."
+
+"I've been thinking about moving out of the city," Sasha says, absently stirring her coffee. "I'm just not sure if I'm ready for that kind of change."
+
+The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other.

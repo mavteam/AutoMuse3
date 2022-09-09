@@ -1,0 +1,22 @@
+Given the following story imagine a ordinary event to advance the plot. Describe the event in one or two sentences.
+
+
+SUMMARY: Three friends meet at their favorite coffee shop to catch up on each other's lives. They discuss their plans for the future, and whether or not they're ready to make the big move out of the city. There's a sense of camaraderie and closeness in the air, as they chat and laugh over their coffees.
+
+EVENT: The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other.
+SCENE: The coffee shop is warm and inviting, with a cozy fireplace and comfortable chairs. The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other. There's a sense of camaraderie and closeness in the air, as they catch up on each other's lives.
+AHMED BENTLEY: "So, what are your plans for the future?" Ahmed asks, looking at Jane and Sasha. "Are you guys going to stay in the city, or move out?"
+JANE SMITH: "I'm not sure," Jane replies, shrugging. "I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change."
+SASHA POSKOVA: "I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change," Sasha says, absently stirring her coffee.
+EVENT: The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other. There's a sense of camaraderie and closeness in the air, as they catch up on each other's lives.
+SCENE: The coffee shop is warm and inviting, with a cozy fireplace and comfortable chairs. The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other. There's a sense of camaraderie and closeness in the air, as they catch up on each other's lives.
+AHMED BENTLEY: "So, have you guys given any thought to what you're going to do after graduation?" Ahmed asks, looking at Jane and Sasha. "I'm not sure what I'm going to do yet, but I'm thinking about moving out of the city." JANE SMITH: "I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change," Jane replies, shrugging. SASHA POSKOVA: "I've been thinking about moving out of the city, but I'm not sure if I'm ready for that kind of change," Sasha says, absently stirring her coffee.
+JANE SMITH: "I don't know," Jane says, shrugging. "I haven't really thought about it much. I guess I'm just taking things one day at a time."
+SASHA POSKOVA: Sasha nods in agreement. "I think that's the best way to approach it," she says. "There's no point in getting too far ahead of ourselves."
+
+
+Imagine ordinary event described in one or two sentences:
+
+==========
+
+The friends continue to chat and laugh over their coffees, enjoying each other's company.

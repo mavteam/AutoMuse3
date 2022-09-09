@@ -18,7 +18,8 @@ def save_file(filepath, content):
 
 
 openai.api_key = open_file('openaiapikey.txt')
-rarities = ['common', 'likely', 'unlikely', 'interesting', 'exciting', 'funny', 'stressful', 'irritating', 'ordinary'] #, 'extraordinary'] #, 'shocking']  # shocking might cause t he story to end
+#rarities = ['common', 'likely', 'unlikely', 'interesting', 'exciting', 'funny', 'stressful', 'irritating', 'ordinary' , 'extraordinary' , 'shocking']  # shocking might cause t he story to end
+rarities = ['common', 'likely', 'funny', 'ordinary', 'minor']
 
 
 def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=1000, freq_pen=0.0, pres_pen=0.0, stop=['asdfasdf', 'asdasdf']):
@@ -60,7 +61,7 @@ def load_story():
 def summarize_block(text_block):
     chunks = textwrap.wrap(text_block, 4000)
     result = ''
-    print(len(chunks), 'chunks to summarize')
+    #print(len(chunks), 'chunks to summarize')
     for chunk in chunks:
         prompt = open_file('prompt_summary.txt').replace('<<SUMMARY>>', chunk)
         summary = gpt3_completion(prompt)
@@ -70,7 +71,7 @@ def summarize_block(text_block):
 
 
 def recursively_summarize(story):
-    print('Recursively summarizing story up to this point...')
+    #print('Recursively summarizing story up to this point...')
     summary = '\n'.join(story).strip()
     while True:
         summary = summarize_block(summary)
@@ -87,10 +88,10 @@ def get_recent(story):
 
 if __name__ == '__main__':
     while True:
-        print('NEW instance, loading story...')
+        #print('NEW instance, loading story...')
         story = load_story()  # load the entire story so far
         summary = 'SUMMARY: %s' % recursively_summarize(story)  # write a summary of the whole story so far TODO: make this more efficient (maybe not necessary with finetuned CURIE?)
-        print(summary)
+        print('\n\n\n', summary)
         save_file('logs/log_%s_summary.txt' % time(), summary)
         # instantiate current SCENE
         recent = get_recent(story)
@@ -100,7 +101,7 @@ if __name__ == '__main__':
         save_file('logs/log_%s_scene.txt' % time(), scene)
         print(scene)
         # iterate through characters
-        print('Iterating through characters...')
+        #print('Iterating through characters...')
         character_files = [i for i in os.listdir() if 'character_' in i]
         for charfile in character_files:
             recent = get_recent(story)

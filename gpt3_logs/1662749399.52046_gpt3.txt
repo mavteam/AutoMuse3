@@ -1,0 +1,23 @@
+Convert the following screenplay into a novel:
+
+
+SCENE: The coffee shop is warm and inviting, with a cozy fireplace and comfortable chairs. The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other. There's a sense of camaraderie and closeness in the air, as they catch up on each other's lives.
+AHMED BENTLEY: "You're right," Ahmed says, nodding in agreement. "There's no point in getting too far ahead of ourselves. We should just enjoy the moment."
+JANE SMITH: "I guess you're right," Jane says, smiling. "It's good to just relax and enjoy the moment."
+SASHA POSKOVA: Sasha nods in agreement. "I think that's the best way to approach it," she says. "There's no point in getting too far ahead of ourselves."
+EVENT: The friends continue to chat and laugh over their coffees, enjoying each other's company. They discuss their plans for the future, and agree that it's best to take things one day at a time.
+
+
+Screenplay converted to novel:
+
+==========
+
+The coffee shop was warm and inviting, with a cozy fireplace and comfortable chairs. The friends chat and laugh over their coffees, catching up on all that's happened since they last saw each other. There was a sense of camaraderie and closeness in the air, as they caught up on each other's lives.
+
+"You're right," Ahmed said, nodding in agreement. "There's no point in getting too far ahead of ourselves. We should just enjoy the moment."
+
+"I guess you're right," Jane said, smiling. "It's good to just relax and enjoy the moment."
+
+Sasha nodded in agreement. "I think that's the best way to approach it," she said. "There's no point in getting too far ahead of ourselves."
+
+The friends continued to chat and laugh over their coffees, enjoying each other's company. They discussed their plans for the future, and agree that it's best to take things one day at a time.
