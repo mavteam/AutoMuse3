@@ -107,7 +107,9 @@ if __name__ == '__main__':
             charname = charfile.replace('character_','').replace('.txt','').replace('_',' ')
             profile = open_file(charfile)
             prompt = open_file('prompt_character.txt').replace('<<NAME>>', charname).replace('<<CHARACTER>>', profile).replace('<<SUMMARY>>', summary).replace('<<RECENT>>', recent)
-            dialog = charname + ': ' + gpt3_completion(prompt)
+            dialog = gpt3_completion(prompt)
+            if charname not in dialog:
+                dialog = charname + ': ' + dialog  # add character name if it wasn't put in by the model
             save_file('logs/log_%s_dialog.txt' % time(), dialog)
             story.append(dialog)
             print(dialog)

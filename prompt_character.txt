@@ -1,4 +1,5 @@
-Imagine the next character action or dialog for <<NAME>>
+Imagine the next character action or dialog for <<NAME>>.
+
 
 <<CHARACTER>>
 
@@ -6,4 +7,5 @@ Imagine the next character action or dialog for <<NAME>>
 
 <<RECENT>>
 
-Next one action or dialog for <<NAME>>:
+
+<<NAME>> next one action or dialog:

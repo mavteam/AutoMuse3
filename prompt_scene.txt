@@ -1,7 +1,9 @@
 Write a brief but lush description of the scene for the following story.
 
+
 <<SUMMARY>>
 
 <<RECENT>>
+
 
 Brief but lush scene description:
