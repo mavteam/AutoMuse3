@@ -1,0 +1,7 @@
+Given the following story imagine a <<RARITY>> event to advance the plot. Describe the event in one or two sentences.
+
+<<SUMMARY>>
+
+<<RECENT>>
+
+Event described in one or two sentences:

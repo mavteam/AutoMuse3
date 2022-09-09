@@ -1,0 +1,5 @@
+Name: Jane Smith
+Age: 23
+Background: Grew up in Boston to a poor family, loves acting, dreams of getting to Broadway
+Lives: In a tiny basement apartment in NYC
+Romantic: Presently single, bisexual, prefers women, has had a string of hookups

@@ -1,0 +1,22 @@
+Given the following story imagine a exciting event to advance the plot. Describe the event in one or two sentences.
+
+Story summary so far: Summary: A group of rowdy teenagers comes into a coffee shop, causing havoc and accidentally knocking over Jane's coffee cup.
+
+Recent actions and dialog: Summary: Three friends are meeting at their favorite coffee shop to catch up on each other's news.
+Scene: The coffee shop is a small, cozy place with dark wood floors and big, comfortable chairs. The walls are lined with shelves full of books, and the air is thick with the smell of coffee and pastries.
+
+The three friends are sitting at a table near the window, laughing and talking animatedly. The sun is streaming in through the window, casting a warm glow on their faces. The coffee cups in front of them are half-empty, and the plate of pastries is nearly gone.
+AHMED BENTLEY: "So, what's new with you guys?" Ahmed asks, taking a sip of his coffee.
+JANE SMITH: "Not much," Jane responds, shrugging. "I've just been working a lot lately and trying to save up some money."
+SASHA POSKOVA: "I've been having a great time lately," Sasha says, smiling. "I've been going out a lot and meeting new people. I'm really enjoying my classes this semester too."
+Event: Suddenly, the door to the coffee shop bursts open and a group of rowdy teenagers comes in, laughing and shouting. They start to knock over chairs and tables, and one of them bumps into Jane, knocking her coffee cup over.
+Scene: The small coffee shop is filled with the sound of laughter and shouting as a group of rowdy teenagers comes in, causing havoc. Jane's coffee cup is knocked over, and the air is thick with the smell of coffee and pastries.
+AHMED BENTLEY: "Hey!" Ahmed shouts as he jumps to his feet. "What the hell do you think you're doing?"
+JANE SMITH: JANE SMITH: "Hey!" Jane shouts, jumping to her feet. "What the hell do you think you're doing?"
+SASHA POSKOVA: Sasha Poskova stands up and shouts at the teenagers, "What the hell do you think you're doing? You're ruining our coffee date!"
+
+Event described in one or two sentences:
+
+==========
+
+The group of rowdy teenagers causes havoc in the coffee shop, accidentally knocking over Jane's coffee cup.

@@ -1,0 +1,9 @@
+Imagine the next character action or dialog for <<NAME>>
+
+<<CHARACTER>>
+
+<<SUMMARY>>
+
+<<RECENT>>
+
+Next one action or dialog for <<NAME>>:
