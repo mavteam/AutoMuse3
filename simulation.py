@@ -50,7 +50,7 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, toke
 
 
 def load_story():
-    files = os.listdir('logs/')
+    files = [i for i in os.listdir('logs/') if 'summary' not in i]  # exclude summaries even though we want to save them
     result = list()
     for file in files:
         result.append(open_file('logs/%s' % file).strip())
